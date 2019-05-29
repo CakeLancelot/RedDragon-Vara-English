@@ -1,7 +1,7 @@
 # RedDragon-Vara-English
 A translation of the RGB/Macro software for the RedDragon K551 Vara/Mitra.
 
-For some reason, there is only an English version of this keyboard's software provided on Redragon's website (redragonzone.com). I decided to translate most options required for using the software into English. If you have any comments or suggestions, [please open a new issue](https://github.com/CakeLancelot/RedDragon-Vara-English/issues/new).
+For some reason, there is only an Spanish version of this keyboard's software provided on Redragon's website (redragonzone.com). I decided to translate most options required for using the software into English. If you have any comments or suggestions, [please open a new issue](https://github.com/CakeLancelot/RedDragon-Vara-English/issues/new).
 # Installation
 You must first install the Spanish version of the Redragon K551 software, available [here](https://www.redragonzone.com/pages/download).
 1. On this Github page, click 'Clone or download', then click 'Download ZIP'.
